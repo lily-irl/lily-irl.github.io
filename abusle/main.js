@@ -1161,8 +1161,7 @@ this.wordle.bundle = function(e) {
     }
     function Da(e) {
         var a, s = Ga(e);
-        return a = s % La.length,
-        La[a]
+        return La[Math.floor(Math.random() * La.length)]
     }
     function Ga(e) {
         return Na(Ha, e)
@@ -1228,7 +1227,7 @@ this.wordle.bundle = function(e) {
     var Za = "IN_PROGRESS"
       , es = "WIN"
       , as = "FAIL"
-      , ss = ["Genius", "Magnificent", "Impressive", "Splendid", "Great", "Phew"]
+      , ss = ["you fucking cheater", "lucky guess cuntface", "bet you feel special fuckwit", "post this on twitter for zero likes", "took you 5? christ you're dim", "nearly fucked that one too prick"]
       , ts = function(e) {
         r(t, e);
         var a = h(t);
