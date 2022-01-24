@@ -7,7 +7,22 @@ this.wordle.bundle = function(e) {
         "still haven't got it yet? fucking idiot",
         "were you dropped on your head as a child",
         "about 80% of players have solved this puzzle within 5 turns. what does that say about you, dipshit?",
-        "that's it i give up. you're too fucking dense"
+        "that's it i give up. you're too fucking dense",
+        "if i said what i was really thinking about you i'd be called an ableist",
+        "i'm pretty sure there's primary schoolers with a bigger vocabulary than you",
+        "genuinely embarrassed to be giving you this outlet for mediocrity",
+        "maybe you should have another read of how this game works",
+        "are you mentally fucking challenged",
+        "jesus christ, it's not that difficult",
+        "entering letters at random would be a better strategy than whatever you're doing",
+        "too bad 'NOBITCHES' is more than five letters",
+        "if you were any slower i'd call you africa's covid vaccine rollout",
+        "only 26 letters and yet you've managed to fuck this up",
+        "i don't even have the energy to insult you that was so poor",
+        "that was the 'elon musk' of guesses",
+        "maybe snakes and ladders would be a better game for you",
+        "please find a grown up and ask them for help",
+        "are you off your meds or something"
     ];
     function a(e) {
         return (a = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
