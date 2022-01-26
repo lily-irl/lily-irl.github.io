@@ -2098,7 +2098,7 @@ this.wordle.bundle = function(e) {
                             }
                         }({
                             evaluations: e.gameApp.evaluations,
-                            dayOffset: La.findIndex(element => element === e.gameApp.solution),
+                            dayOffset: La.findIndex(element => element === e.gameApp.solution) * 298,
                             rowIndex: e.gameApp.rowIndex,
                             isHardMode: e.gameApp.hardMode,
                             isWin: e.gameApp.gameStatus === es
