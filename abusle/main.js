@@ -2304,7 +2304,7 @@ this.wordle.bundle = function(e) {
                       , n = Math.floor(s % Ys / 1e3);
                     e = "".concat(this.padDigit(t), ":").concat(this.padDigit(o), ":").concat(this.padDigit(n))
                 }
-                this.$timer.textContent = e
+                this.$timer.innerHTML = '<a style="color:white;" href="javascript:location.reload()">Now, cunt</a>'
             }
         }, {
             key: "connectedCallback",
