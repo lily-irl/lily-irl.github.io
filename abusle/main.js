@@ -22,7 +22,21 @@ this.wordle.bundle = function(e) {
         "that was the 'elon musk' of guesses",
         "maybe snakes and ladders would be a better game for you",
         "please find a grown up and ask them for help",
-        "are you off your meds or something"
+        "are you off your meds or something",
+        "try consulting a dictionary, that's DIC-TION-AR-Y just in case you can't spell that either",
+        "did you mean to type: HOPELESS?",
+        "a computer actually wasted processing power computing that guess",
+        "from your performance so far, i'd say you're one of those NFT enthusiasts?",
+        "i hope to god that english isn't your first language",
+        "this is the ENGLISH wordle",
+        "for best results stop eating crayons you keep playing",
+        "you seem like you're a fan of mistakes, but then loving yourself is important",
+        "there's no stupid questions but there are stupid guesses and wow was that one of them",
+        "giving up is an option -- for you, maybe the best one",
+        "im begging you please just enter the right letters",
+        "did you eat soap before trying this? call a doctor",
+        "perhaps have another read of the instructions",
+        "should i change this to an easier word for you?"
     ];
     function a(e) {
         return (a = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
